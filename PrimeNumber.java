@@ -35,6 +35,7 @@ public class PrimeNumber {
 
         System.out.println("Enter the end number");
         int num2 = sc.nextInt();
+         sc.close();
 
         for(int i = num1; i<=num2;i++){
             if(isPrime(i)){

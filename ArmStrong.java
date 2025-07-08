@@ -14,6 +14,7 @@ public class ArmStrong {
                 System.out.println(i);
             }
         }
+         sc.close();
 
     }
 

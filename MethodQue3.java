@@ -14,6 +14,7 @@ public class MethodQue3 {
             System.out.println("Person is not eligible to vote");
 
         }
+        sc.close();
     }
     static boolean eligibleToVote(int age){
         if(age >=18) {

@@ -7,6 +7,7 @@ public class primeNumberAdvance {
         int num = sc.nextInt();
 
         System.out.println(PrimeNumberCount(num));
+         sc.close();
        
     }
 

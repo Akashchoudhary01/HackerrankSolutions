@@ -10,7 +10,10 @@ public class MethodQue2 {
 
         checkEvenOdd(num);
 
+        sc.close();
+
     }
+    
     static void checkEvenOdd(int n){
         if(n%2==0){
             System.out.println("even");
