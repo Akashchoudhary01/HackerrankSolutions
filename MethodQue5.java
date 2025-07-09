@@ -13,6 +13,7 @@ public class MethodQue5 {
             System.out.println("Number "+ num +" is not a prime number");
 
         }
+        sc.close();
 
     }
     static boolean isPrime(int n){
