@@ -20,7 +20,9 @@ public static void main(String[] args) {
     for(int i =0; i<5; i++){
         list.add( sc.nextInt());
     }
-    System.out.println(list);
+    for(int i =0; i<5; i++){
+        System.out.println(list.get(i));
+    }
 }
     
 }
