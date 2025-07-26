@@ -15,7 +15,7 @@ public static void main(String[] args) {
     // list.set(0, 69);
     // list.remove(1);
     // System.out.println(list);
-
+      sc.close();
     // gettign the value from users
     for(int i =0; i<5; i++){
         list.add( sc.nextInt());
